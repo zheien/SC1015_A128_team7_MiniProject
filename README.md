@@ -1,6 +1,6 @@
 # SC1015_A128_team7_MiniProject
 
-## About
+### About
 
 ## Contributors
 
