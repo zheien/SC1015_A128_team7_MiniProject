@@ -1,15 +1,15 @@
 # SC1015_A128_team7_MiniProject
 
-# About
+## About
 
-# Contributors
+## Contributors
 
-# Problem Definition
+## Problem Definition
 
-# Models Used
+## Models Used
 
-# Conclusion
+## Conclusion
 
-# References
+## References
 images:
 https://www.healthline.com/health/high-blood-pressure-hypertension/blood-pressure-reading-explained
