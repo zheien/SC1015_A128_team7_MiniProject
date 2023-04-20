@@ -11,7 +11,11 @@
 ## Conclusion
 
 # Folder
-### Jupyter Notebook #1: Data Extraction & Exploratory Analysis
+### Jupyter Notebook #1: Data Extraction & Cleaning
+
+### Jupyter Notebook #2: Exploratory Data Analysis
+
+### Jupyter Notebook #3: Machine Learning
 
 ## References
 images:
