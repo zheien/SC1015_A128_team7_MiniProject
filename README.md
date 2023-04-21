@@ -20,3 +20,4 @@
 ## References
 images:
 https://www.healthline.com/health/high-blood-pressure-hypertension/blood-pressure-reading-explained
+https://www.template.net/editable/95034/bmi-index-chart
