@@ -5,8 +5,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 A128 team 7
-- Zhei En
-- Marcus 
+- Law Zhei En
+- Ong Yong Tze Marcus
 
 ## Problem Definition
 
