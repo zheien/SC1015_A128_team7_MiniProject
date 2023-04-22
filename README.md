@@ -24,6 +24,11 @@ A128 team 7
 ### Jupyter Notebook #3: Machine Learning
 
 ## References
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
 images:
 https://www.healthline.com/health/high-blood-pressure-hypertension/blood-pressure-reading-explained
 https://www.template.net/editable/95034/bmi-index-chart
+https://www.frontiersin.org/files/Articles/284242/fnagi-09-00329-HTML/image_m/fnagi-09-00329-g001.jpg
+
