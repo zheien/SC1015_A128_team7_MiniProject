@@ -1,6 +1,7 @@
 # SC1015_A128_team7_MiniProject
 
 ## About
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?datasetId=107706&sortBy=voteCount
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on how certain factors influence our risk of getting cardiovascular disease.
 
 ## Contributors
