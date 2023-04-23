@@ -26,6 +26,8 @@ Our objective is to accurately predict the risk of a person contracting cardiova
       1) Random Forest Model
       2) K-Nearest Neighbour Model
 
+# Notebook Walkthrough:
+
 ## Data Preparation and Cleaning
 
 ## Exploratory Data Analysis
@@ -34,9 +36,9 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 We subjected the dataset to a 80-20 train-test split.
 Then we subjected the data to the Random Forest Model as well as the K-Nearest Neighbour Model.
 1) Random Forest Classifier
-    -Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+        -Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
 2) K-Nearest Neighbour
-    -K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
+        -K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 
 ## Conclusion
@@ -44,7 +46,13 @@ Then we subjected the data to the Random Forest Model as well as the K-Nearest N
 2. The most significant factors in predicting cardiovascular diseases were blood pressure, cholesterol level and BMI.
 
 
-## References
+## Dataset Used
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?datasetId=107706&sortBy=voteCount
+
+## Presentation Slides
+https://docs.google.com/presentation/d/1qAmgKLhVzMqxEsPq6UNXdzAZwhsQ-KouzBmIRs0SIIk/edit?pli=1#slide=id.g219f8bde7d4_0_7922
+
+## Reference List
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
