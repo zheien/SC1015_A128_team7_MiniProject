@@ -6,8 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 A128 team 7
-- Law Zhei En ( @zheien )
-- <a href="https://github.com/Chia-Jer-Wen">@Chia-Jer-Wen</a>
+- Law Zhei En (<a href="https://github.com/zheien">@zheien</a>)
 - Ong Yong Tze Marcus (@mraacusDev)
 
 ## Background
