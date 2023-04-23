@@ -43,6 +43,8 @@ Bivariate Analysis - used to find the relationship between variables, specifical
 
 Multivariate Analysis - similar to Bivariate Analysis, Multivariate Analysis is also used to identify the statistical association between variables. The difference is to study multiple factors at once, and this is particularly effective in minimizing bias. For multivariate between "cardio" and 2 categorical variables: the probability of having heart disease is analysed for different combinations of conditions in those 2 variables.
 
+We did EDA on all the features provided in the dataset seperately to analyse the relationship between each factor and cardiovascular disease
+
 ## Machine Learning
 We subjected the dataset to a 80-20 train-test split.
 Then we subjected the data to the Random Forest Model as well as the K-Nearest Neighbour Model.
