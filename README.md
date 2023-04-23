@@ -10,7 +10,8 @@ A128 team 7
 - Ong Yong Tze Marcus (<a href="https://github.com/mraacusDev">@Marcus</a>)
 
 ## Background
--input the cardiovascular disease importance and stats etc.
+Cardiovascular disease is the leading cause of death globally, taking an estimated 17.9 million lives in 2019, representing 32% of global deaths. 
+With the high number of deaths globally and almost 45% of all heart attacks being silent, it is estimated that by 2030, 40% of US adults will have one or more forms of CVD. This is especially concerning as these attacks can be deadly. Therefore, it is paramount to effectively predict the risk of people developing cardiovascular disease for early prediction and intervention.
 
 ## Objective
 Our objective is to accurately predict the risk of a person contracting cardiovascular diseases based on parameters from their health and personal data.
@@ -28,8 +29,16 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 # Notebook Walkthrough:
 
 ## Data Preparation and Cleaning
+Data shaping and processing for more accurate analysis and exploration. Dataset found is already cleaned, and there is no missing value; therefore, no need to fill missing values. We check for null columns and outliers, dropping those rows which had values that were totally out of range, by comparing to data range on various charts. 
 
 ## Exploratory Data Analysis
+Data Visualisation - Using different plots and graphs to paint insightful pictures of the relationship between the response variable "cardio" and the numerical and categorical predictor variables
+
+Univariate Analysis - used to find the pattern in the data to describe the variable. In univariate analysis, all variables are analysed independently. For each numeric variable, analyse it by looking at its mean, mode, median, quartiles and distribution. For each categorical variable, analyse it by looking at its number of categories, top, and cardinality.
+
+Bivariate Analysis - used to find the relationship between variables, specifically to determine the existence and the degree of statistical association. For instance, the relationship between predictors and response is analysed. The purpose of this is to discover variables that have a significant statistical association with the response variable, so that they may be used in machine learning. For bivariate analysis between "cardio" and a categorical variable: the probability of having heart disease is analysed for different conditions in that categorical variable.
+
+Multivariate Analysis - similar to Bivariate Analysis, Multivariate Analysis is also used to identify the statistical association between variables. The difference is to study multiple factors at once, and this is particularly effective in minimizing bias. For multivariate between "cardio" and 2 categorical variables: the probability of having heart disease is analysed for different combinations of conditions in those 2 variables.
 
 ## Machine Learning
 We subjected the dataset to a 80-20 train-test split.
