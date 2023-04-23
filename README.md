@@ -20,11 +20,11 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 1. Our cardiovascular disease dataset
 2. Our presentation slides
 3. Our Jupyter Notebook for our project
-  - Data preparation and cleaning
-  - Exploratory Data Analysis
-  - Machine Learning
-    1) Random Forest Model
-    2) K-Nearest Neighbour Model
+    - Data preparation and cleaning
+    - Exploratory Data Analysis
+    - Machine Learning
+      1) Random Forest Model
+      2) K-Nearest Neighbour Model
 
 ## Data Preparation and Cleaning
 
@@ -34,9 +34,9 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 We subjected the dataset to a 80-20 train-test split.
 Then we subjected the data to the Random Forest Model as well as the K-Nearest Neighbour Model.
 1) Random Forest Classifier
-  Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+  -Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
 2) K-Nearest Neighbour
-  K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
+  -K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 
 ## Conclusion
