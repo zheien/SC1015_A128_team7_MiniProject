@@ -17,12 +17,7 @@ A128 team 7
 ## Conclusion
 1. Just fitting the data points into any machine model with this dataset as seen on many kaggle notebooks yields poor results a. By performing some feature engineering we are able to predict and analyse the factors that might have affected a patient's risk of getting cardiovascular disease
 2. 
-# Folder
-### Jupyter Notebook #1: Data Extraction & Cleaning
 
-### Jupyter Notebook #2: Exploratory Data Analysis
-
-### Jupyter Notebook #3: Machine Learning
 
 ## References
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
