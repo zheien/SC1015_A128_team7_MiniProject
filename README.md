@@ -11,7 +11,10 @@ A128 team 7
 
 ## Background
 Cardiovascular disease is the leading cause of death globally, taking an estimated 17.9 million lives in 2019, representing 32% of global deaths. 
-With the high number of deaths globally and almost 45% of all heart attacks being silent, it is estimated that by 2030, 40% of US adults will have one or more forms of CVD. This is especially concerning as these attacks can be deadly. Therefore, it is paramount to effectively predict the risk of people developing cardiovascular disease for early prediction and intervention.
+With the high number of deaths globally and almost 45% of all heart attacks being silent, it is estimated that by 2030, 40% of US adults will have one or more forms of CVD. This is especially concerning as these attacks can be deadly. 
+
+## Problem Definition 
+To accurately predict the risk of people developing cardiovascular diseases for early prediction and intervention
 
 ## Objective
 Our objective is to accurately predict the risk of a person contracting cardiovascular diseases based on parameters from their health and personal data.
@@ -53,6 +56,15 @@ Then we subjected the data to the Random Forest Model as well as the K-Nearest N
 1. We recommend that health services can collect relevant patient health data and subject the data to machine learning models to better predict their cardiovascular diseases risk for early intervention. 
 2. The most significant factors in predicting cardiovascular diseases were blood pressure, cholesterol level and BMI.
 
+Using our refined and fine-tuned Random Forest classification model, hospitals and doctors can better predict whether a patient has or is going to have heart disease, increasing early detection
+
+Data-Driven Insights
+
+1. Increase early treatment - Patients who detected heart disease early can go for early treatment and increase chances of recovering
+2. Lower medical costs - With early treatment, operations and surgeries are less likely to be needed for the patient to recover
+3. Lower hospital demands - Early treatment prevents heart disease and allows patients to recover on their own, reducing the need to stay at hospitals
+4. Increase survivability - Early detection leads to early intervention which saves lives
+
 
 ## Dataset Used
 https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?datasetId=107706&sortBy=voteCount
@@ -63,8 +75,14 @@ https://docs.google.com/presentation/d/1qAmgKLhVzMqxEsPq6UNXdzAZwhsQ-KouzBmIRs0S
 ## Reference List
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://www.medicalnewstoday.com/articles/death-statistics-by-cause-2020#causes-of-death-in-the-us
+https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries
+https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
 
-images:
+Video Editing:
+https://www.veed.io/login
+
+Images:
 
 https://www.healthline.com/health/high-blood-pressure-hypertension/blood-pressure-reading-explained
 https://www.template.net/editable/95034/bmi-index-chart
