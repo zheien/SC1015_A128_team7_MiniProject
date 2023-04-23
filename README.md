@@ -34,9 +34,9 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 ## Machine Learning
 We subjected the dataset to a 80-20 train-test split.
 Then we subjected the data to the Random Forest Model as well as the K-Nearest Neighbour Model.
-1) Random Forest Classifier:
+1. Random Forest Classifier:
         - Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
-2) K-Nearest Neighbour
+2. K-Nearest Neighbour
         - K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 
