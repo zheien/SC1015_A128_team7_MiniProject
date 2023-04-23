@@ -7,7 +7,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 A128 team 7
 - Law Zhei En (<a href="https://github.com/zheien">@zheien</a>)
+  -Data Cleaning & EDA
 - Ong Yong Tze Marcus (<a href="https://github.com/mraacusDev">@Marcus</a>)
+  -Machine Learning
 
 ## Background
 Cardiovascular disease is the leading cause of death globally, taking an estimated 17.9 million lives in 2019, representing 32% of global deaths. 
