@@ -1,9 +1,8 @@
 # SC1015_A128_team7_MiniProject
 
 ## About
-https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?datasetId=107706&sortBy=voteCount
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on how certain factors influence our risk of getting cardiovascular disease.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting the risk of contracting cardiovascular diseases based on health data using Data Science and Machine Learning.
 
 ## Contributors
 A128 team 7
@@ -35,10 +34,10 @@ Our objective is to accurately predict the risk of a person contracting cardiova
 ## Machine Learning
 We subjected the dataset to a 80-20 train-test split.
 Then we subjected the data to the Random Forest Model as well as the K-Nearest Neighbour Model.
-1) Random Forest Classifier
-        -Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
+1) Random Forest Classifier:
+        - Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
 2) K-Nearest Neighbour
-        -K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
+        - K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 
 ## Conclusion
