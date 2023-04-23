@@ -7,7 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 A128 team 7
 - Law Zhei En (<a href="https://github.com/zheien">@zheien</a>)
-- Ong Yong Tze Marcus (@mraacusDev)
+- Ong Yong Tze Marcus (<a href="https://github.com/mraacusDev">@Marcus</a>)
 
 ## Background
 -input the cardiovascular disease importance and stats etc.
