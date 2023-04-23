@@ -37,7 +37,7 @@ Then we subjected the data to the Random Forest Model as well as the K-Nearest N
 1. Random Forest Classifier:
         - Random Forest is ameta estimator that fits decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting.
 2. K-Nearest Neighbour
-        - K-Nearest Neigbour is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
+    - K-Nearest Neigbour model is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 
 ## Conclusion
