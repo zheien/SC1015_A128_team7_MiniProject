@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 A128 team 7
 - Law Zhei En (<a href="https://github.com/zheien">@zheien</a>)
   -Data Cleaning & EDA
-- Ong Yong Tze Marcus (<a href="https://github.com/mraacusDev">@Marcus</a>)
+- Ong Yong Tze Marcus (<a href="https://github.com/MarcusongytDev">@Marcus</a>)
   -Machine Learning
 
 ## Background
